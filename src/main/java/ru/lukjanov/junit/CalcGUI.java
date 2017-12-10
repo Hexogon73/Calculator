@@ -29,7 +29,7 @@ public class CalcGUI {
         panel1.setBorder(new EmptyBorder(10, 10, 10, 10));
         JPanel panel2 = new JPanel();
         panel2.setBorder(new EmptyBorder(10, 10, 10, 10));
-        panel2.setBackground(Color.green);
+        panel2.setBackground(Color.decode("#c4ceff"));
         JPanel panel3 = new JPanel();
 
         firstNumber = new JTextField("0", 8);
