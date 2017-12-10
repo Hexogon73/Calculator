@@ -2,6 +2,8 @@ package ru.lukjanov.junit;
 
 public class Calculator {
 
+
+
     public double getSum(double x, double y) {
         return x + y;
     }
